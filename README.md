@@ -11,4 +11,9 @@ If you would like to know more, please contact me on [LinkedIn](https://www.link
 
 ## Projects
 
-Under Construction
+## Data Analysis on the Life Cycle of Merchant Ships
+
+* Analyzed data regarding the construction, registration, manning, and demolition of merchant ships worldwide from 2014 to 2018 to identify the trends in these industries (Under Construction)
+* Created a decision tree regression model to forecast future trends in the ship construction, registration, manning, and demolition industries (Under Construction)
+* Built a static dashboard using Flask (Under Construction)
+
