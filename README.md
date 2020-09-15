@@ -1,6 +1,6 @@
 # Data Science Project Portfolio
 
-This repository contains the current projects I am working on, and the past projects I have worked on. The projects are written in Python.
+This repository contains the current projects I am working on, and the past projects I have worked on.
 Click on the project title to view the full analysis and code. 
 
 As of the moment, I am currently on a 6 month sailing contract, but I strive to regularly update and improve my work.
